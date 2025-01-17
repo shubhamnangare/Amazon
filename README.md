@@ -24,5 +24,5 @@ This repository contains a simple clone of the Amazon dashboard page created usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-dashboard-clone.git
+   git clone https://github.com/shubhamnangare/Amazon.git
    ```
